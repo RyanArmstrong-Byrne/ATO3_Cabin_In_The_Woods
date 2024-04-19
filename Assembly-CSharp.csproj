@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A2566BDE-C868-50D8-16C3-D29A23520BA3}</ProjectGuid>
+    <ProjectGuid>{676E295B-FFC2-B929-ABDA-9D2AAF1D0C47}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Teleport_Menu.cs" />
     <Compile Include="Assets\Scripts\Interaction.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\NavigationWaypoint.cs" />
     <Compile Include="Assets\Scripts\DigitalTooltip.cs" />
