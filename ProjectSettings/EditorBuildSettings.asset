@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cabin_Project.unity
+    guid: a798be6adb8772440b1b01b90e40fd3f
   m_configObjects: {}
